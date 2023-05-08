@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Program": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\university-csharp\\APBD2\\dane.csv\r\nD:\\university-csharp\\APBD2\\students.csv"
+    }
+  }
+}
